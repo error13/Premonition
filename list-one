@@ -5,7 +5,7 @@
 #
 # Crashlytics
 e.crashlytics.com
-*.crashlytics.com
+.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
 #
@@ -98,7 +98,6 @@ cloudflareinsights.com
 cmp.network-n.com
 collect.igodigital.com
 collectcent.clqtrk.com
-collector*.xhamster.
 collector-medium.lightstep.com
 collector.githubapp.com
 conf.smartnews-ads.com
@@ -249,7 +248,6 @@ plehimselves.info
 pr.realvu.net
 printfriendly.com
 pro-market.net
-producebreed.com$
 prpops.com
 px.spiceworks.com
 px.srvcs.tumblr.com
@@ -262,7 +260,6 @@ referrer.disqus.com
 report-uri.com
 revcontent.com
 rhombusads.com
-rover.ebay.$image
 rubiconproject.com
 rum-static.pingdom.net
 s-onetag.com
