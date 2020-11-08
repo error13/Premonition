@@ -1,8 +1,26 @@
 # Premonition
-another pie_hole block list
+Pie_Hole block list
 
-pie-hole block list: 
-  aimed at mobile ads and tracking on android.
-    beta: a work in progress. 
-    
-BlockList url: https://raw.githubusercontent.com/error13/Premonition/main/main/blockList
+**Last Updated:** 2020-11-08 16:04:45
+
+Pie-Hole block List: 
+  # Aimed at Mobile Ads and Tracking on Android.
+    **Beta: a work in progress. 
+   
+## Using with [Pi-Hole](https://pi-hole.net/):
+1. Copy the link to the Pi-Hole format for the desired list (from the appropriate table below).
+2. [Add the URL to your Pi-Hole's block lists (**Settings** > **Pi-Hole's Block Lists**).](https://github.com/pi-hole/pi-hole/wiki/Customising-Sources-for-Ad-Lists)
+)
+  
+  
+  
+&nbsp;
+
+## error13_Premonition BlockList 
+| Format | Download Link |
+| --- | --- |
+| Pi-Hole | [error13/Premonition/main/main/blockList.txt](https://raw.githubusercontent.com/error13/Premonition/main/main/blockList) |
+| Raw Link Actual  | [https://raw.githubusercontent.com/error13/Premonition/main/main/blockList](https://raw.githubusercontent.com/error13/Premonition/main/main/blockList)|  
+
+
+
