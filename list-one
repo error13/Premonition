@@ -5,7 +5,7 @@
 #
 # Crashlytics
 e.crashlytics.com
-.crashlytics.com
+*.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
 #
@@ -128,8 +128,6 @@ dotomi.com
 doubleclick.com
 doubleclick.net
 downloads.mailchimp.com/js/signup-forms/
-e.crashlytics.com
-e.crashlytics.com
 ecdn.firstimpression.io
 edigitalsurvery.com
 edigitalsurvey.com
@@ -170,7 +168,6 @@ google-analytics.com
 google.com/_/dotssplashui/browserinfo
 google.com/dssw.js
 google.com/pagead/
-googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
@@ -263,7 +260,6 @@ reddit.com/timings/
 redditmedia.com/gtm/jail?
 referrer.disqus.com
 report-uri.com
-reports.crashlytics.com
 revcontent.com
 rhombusads.com
 rover.ebay.$image
@@ -291,7 +287,6 @@ snapwidget.com
 speedcurve.com
 squarespace.com/universal/scripts-compressed/performance-$script,3p
 ssc.api.bbc.com
-ssl.google-analytics.com
 static.doubleclick.net
 static.h-bid.com
 static.hotjar.com
@@ -349,7 +344,6 @@ www.ugdturner.com
 www.zergnet.com
 xhamsterlive.com
 xhamsterpremium.com
-xhcdn.com/js/track
 xhcdn.com/js/track
 yadro.ru
 yahoo.com/_td_api/beacon/
@@ -2550,3 +2544,5 @@ api.leanplum.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
 0.0.0.0 zh-tw.facebook.com0.facebook.com
+
+
