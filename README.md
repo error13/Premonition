@@ -3,7 +3,7 @@ Pie_Hole block list
 
 **Last Updated:** 2020-11-08 16:04:45
 
-Pie-Hole block List: 
+
   # Aimed at Mobile Ads and Tracking on Android.
     **Beta: a work in progress. 
    
