@@ -1,4 +1,4 @@
-<font color="green"># Premonition A Pi-Hole blocklist Filter</font>
+# Premonition A Pi-Hole blocklist Filter
 
 
 **Last Updated:** 2020-11-08 16:04:45
