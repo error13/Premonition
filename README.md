@@ -1,4 +1,4 @@
-# Premonition A Pie-Hole blocklist Filter
+# Premonition A Pi-Hole blocklist Filter
 
 
 **Last Updated:** 2020-11-08 16:04:45
@@ -8,7 +8,7 @@
     **Beta: a work in progress. 
 
 # Usage:
-This List is intended for Pie-Hole a DNS and domain-blocking tool
+This List is intended for Pi-Hole a DNS and domain-blocking tool
 
 
 ## Using with [Pi-Hole](https://pi-hole.net/):
@@ -20,7 +20,7 @@ This List is intended for Pie-Hole a DNS and domain-blocking tool
   
 &nbsp;
 
-## Premonition Pie-Hole BlockList-Filter
+## Premonition Pi-Hole BlockList-Filter
 | Format | Download Link |
 | --- | --- |
 | Pi-Hole | [error13/Premonition/main/main/blockList.txt](https://raw.githubusercontent.com/error13/Premonition/main/main/blockList) |
